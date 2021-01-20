@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">TakeCare</string>
+    <string name="textViewMedicineName">Podaj nazwę leku</string>
+    <string name="textViewDays">Dni</string>
+    <string name="checkBoxAllDays">Wszystkie dni</string>
+    <string name="checkBoxMonday">P</string>
+    <string name="checkBoxTuasday">W</string>
+    <string name="checkBoxWednesday">S</string>
+    <string name="checkBoxThursday">C</string>
+    <string name="checkBoxFriday">P</string>
+    <string name="checkBoxSaturday">S</string>
+    <string name="checkBoxSunday">N</string>
+    <string name="textViewReminder">Przypomnienie</string>
+    <string name="textViewDose">Podaj dawkę leku</string>
+
+
 </resources>
